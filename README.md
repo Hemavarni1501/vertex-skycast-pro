@@ -1,7 +1,9 @@
 # 🌤️ Vertex SkyCast AI
 **AI-Powered Weather Intelligence Dashboard**
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge.svg)](https://vertex-skycast-pro-tar3fmu9qpsoanfunvwjeu.streamlit.app/)
+<a href="https://vertex-skycast-pro-tar3fmu9qpsoanfunvwjeu.streamlit.app/">
+  <img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg" alt="Streamlit App" width="160">
+</a>
 
 Vertex SkyCast AI is a next-generation weather dashboard that combines real-time meteorological data with the reasoning power of **Google Gemini 1.5 Flash**. Instead of just showing numbers, SkyCast provides actionable "AI Insights" and a conversational consultant to help users plan their day.
 
@@ -47,14 +49,15 @@ To run this project locally, follow these steps:
    ```bash
    streamlit run app.py
   ```
+```
+## 📋 Internship Project Details
 
-## 📝 Internship Task Details
+### 📝 Task Overview
+- **Task:** Task 2 - Weather AI Dashboard
+- **Developer:** Hemavarni S
+- **Role:** Python Developer Intern
 
-**Task:** Task 2 - Weather AI Dashboard
+### 🎯 Objective
+To integrate external meteorological APIs with Large Language Models (LLMs) to create a functional, user-centric data dashboard that provides more than just raw data.
 
-**Developer:** Hemavarni S
-
-**Objective:** Integrate external APIs with LLMs to create a functional, user-centric data dashboard.
-
-Developed with ❤️ as part of an Python Developer Internship.
-   
+*Developed with ❤️ as part of a Python Developer Internship.*
